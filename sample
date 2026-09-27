@@ -1,2 +1,4 @@
-Add new  comment
-Test now again
+echo ===========================================
+echo Reading the text file content:
+type sample2
+echo ===========================================
