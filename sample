@@ -1,4 +1,0 @@
-echo ===========================================
-echo Reading the text file content:
-type sample 3
-echo ===========================================
