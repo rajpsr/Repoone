@@ -1,4 +1,4 @@
 echo ===========================================
 echo Reading the text file content:
-type sample 10
+type sample 11
 echo ===========================================
